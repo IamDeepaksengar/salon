@@ -187,6 +187,7 @@ footer {
     border-radius: 8px; /* Adjusted rounded corners */
     text-decoration: none;
     transition: background-color 0.3s ease;
+     margin-top: 20px;
 }
 
 .green-btn:hover {
