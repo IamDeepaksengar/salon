@@ -178,13 +178,13 @@ footer {
 }
 .green-btn {
     display: inline-block;
-    padding: 15px 30px;
+    padding: 10px 20px; /* Reduced padding for a smaller button */
     background-color: #4caf50; /* Green background */
     color: #e0e0e0; /* Light text */
-    font-size: 18px;
+    font-size: 16px; /* Reduced font size */
     font-weight: bold;
     text-align: center;
-    border-radius: 10px; /* Rounded corners */
+    border-radius: 8px; /* Adjusted rounded corners */
     text-decoration: none;
     transition: background-color 0.3s ease;
 }
